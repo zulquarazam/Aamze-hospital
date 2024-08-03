@@ -1,4 +1,4 @@
-# Aamze-hospital
+# Amaze-hospital
 Limk for the Dashboard
 https://app.powerbi.com/groups/me/reports/76b07fe8-16e7-4388-8c17-9dfc7560b3f4/ReportSection0c4139587314efa7fd9c?experience=power-bi
 
